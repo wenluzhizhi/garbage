@@ -1,0 +1,8 @@
+﻿  Source.cpp
+e:\rendering\exercise\ppm1\ppm\ppm\source.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\rendering\exercise\ppm1\ppm\ppm\vec3.h(61): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\rendering\exercise\ppm1\ppm\ppm\source.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\rendering\exercise\ppm1\ppm\ppm\source.cpp(11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\rendering\exercise\ppm1\ppm\ppm\source.cpp(12): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ppm.vcxproj -> E:\rendering\exercise\ppm1\ppm\Debug\ppm.exe
+  ppm.vcxproj -> E:\rendering\exercise\ppm1\ppm\Debug\ppm.pdb (Full PDB)
